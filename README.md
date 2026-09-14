@@ -5,8 +5,8 @@
 ---
 ## Pages
 - Home Page
--- Food Favorite
--- Food Detail
+* Food Favorite
+* Food Detail
 
 ## Design 
 - Food Categories
