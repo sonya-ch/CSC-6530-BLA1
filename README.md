@@ -3,6 +3,10 @@
 # Name: Saranya Chotsiri
 # Date: 9/13/2026
 ---
+## Pages
+- Home Page
+-- Food Favorite
+-- Food Detail
 
 ## Design 
 - Food Categories
