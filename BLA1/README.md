@@ -6,7 +6,7 @@
 ### Hierarchy
 1. Home Page
 2. Food Detail Page
-3. Profile
+3. ? User Profile Page > Name,Age,W,H,BMI,Cals. ( Idea to Continue.. )
 
 
 ### UI Design 
