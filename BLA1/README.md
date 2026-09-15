@@ -6,6 +6,7 @@
 ### Hierarchy
 1. Home Page
 2. Food Detail Page
+3. Profile
 
 
 ### UI Design 
