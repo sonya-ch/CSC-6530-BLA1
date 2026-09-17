@@ -6,17 +6,12 @@
 ## BLA 1 – UI and Interactive Features
 For BLA 1, I plan to create a Food Menu App focusing primarily on UI design and user interaction.
 
-### The main screens will include:
-•	Home Page – Food Menu header, search bar, food categories, and food cards.
-•	Food Detail Page – Food image, food information, calories, protein, rating, and other details.
-•	Favorite Feature – Users can add or remove foods from their favorites list.
-
 The main goal of BLA 1 is to practice React Native UI development, components, navigation, and interactive elements. I will focus on creating a clean and user-friendly interface before adding more advanced functionality in the following BLAs.
 
-## Pages
-- Home Page
-- Food Favorite
-- Food Detail
+### The main screens will include:
+-	Home Page – Food Menu header, search bar, food categories, and food cards.
+-	Food Detail Page – Food image, food information, calories, protein, rating, and other details.
+-	Favorite Feature – Users can add or remove foods from their favorites list.
 
 ### Design 
 - Logo
