@@ -26,7 +26,6 @@ The main goal of BLA 1 is to practice React Native UI development, components, n
 - Food Image
 - Calories
 - Nutrition
-- Ingredients
 - Description
 
 ### Interaction 
